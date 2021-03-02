@@ -1,5 +1,7 @@
 # vue-weather
 
+Web app de visualização climática da cidade à escolha do usuário, baseado no banco de dados da OpenWeatherAPI.
+
 ## Project setup
 ```
 npm install
